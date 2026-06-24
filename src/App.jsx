@@ -29,7 +29,7 @@ function App() {
     <>
       <Navbar />
       <div className="container bg-purple-200 mx-auto my-5 rounded-xl p-5 min-h-[85vh]">
-        <h1 className="font-bold text-xl">TO-DO App : Write what you'll do throughout the day !!</h1>
+        <h1 className="font-bold text-xl">Write what you'll do throughout the day !!</h1>
 
         {/* Input Section */}
         <div className="addtodo my-6 flex gap-7">
