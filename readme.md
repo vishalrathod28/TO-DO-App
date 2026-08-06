@@ -4,7 +4,7 @@ A beautiful, modern, and fully functional To-Do List application designed . Buil
 
 Live Demo : https://vishalrathod28.vercel.app/
 
-Updated app :
+Updated app : https://to-do-app-with-enhancedui.vercel.app/
 
 ## ✨ Features
 
