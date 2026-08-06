@@ -4,6 +4,8 @@ A beautiful, modern, and fully functional To-Do List application designed . Buil
 
 Live Demo : https://vishalrathod28.vercel.app/
 
+Updated app :
+
 ## ✨ Features
 
 - **Add Tasks:** Quickly write down what you need to do throughout the day.
